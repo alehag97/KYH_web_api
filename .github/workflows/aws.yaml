@@ -1,6 +1,6 @@
 name: Build and push to aws
 
-ont:
+on:
    push:
     branches:
      - main
